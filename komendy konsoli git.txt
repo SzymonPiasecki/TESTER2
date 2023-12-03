@@ -1,0 +1,12 @@
+#na początku 
+
+git init
+git branch -M main
+git remote add origin https://github.com/SzymonPiasecki/xxxxxxx.git
+
+
+#za kazdym razem
+git status
+git add .    lub nazwa pliku
+git commit -m "nazwa naszego commita"
+git push -u origin main
